@@ -4,6 +4,7 @@ This technology allows for the non-contact measurement of temperatures and provi
 In thermal image analysis,the temperature data captured by the thermal imaging camera is typically processed using specialized software that can produce a visual representation of the temperature data, as well as provide quantitative information about the temperatures of individual objects or regions within the scene.
 This information can then be used to make informed decisions and take appropriate actions based on the thermal data.
 It can be used in a variety of applications, such as:
+    
     1.Predictive maintenance:
       Detecting hotspots and anomalies in equipment that could indicate potential problems.
 
